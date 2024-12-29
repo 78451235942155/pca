@@ -1,0 +1,3 @@
+E:\cmake-3.26.0-rc1-windows-x86_64\bin\cmake.exe -E rm -f CMakeFiles\pca.dir/objects.a
+E:\mingw64\bin\ar.exe qc CMakeFiles\pca.dir/objects.a @CMakeFiles\pca.dir\objects1.rsp
+E:\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\pca.dir/objects.a -Wl,--no-whole-archive -o pca.exe -Wl,--out-implib,libpca.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\pca.dir\linkLibs.rsp

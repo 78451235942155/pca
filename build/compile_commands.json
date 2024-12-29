@@ -1,0 +1,8 @@
+[
+{
+  "directory": "D:/PCA/build",
+  "command": "E:\\mingw64\\bin\\g++.exe  @CMakeFiles/pca.dir/includes_CXX.rsp -g -std=gnu++14 -o CMakeFiles\\pca.dir\\src\\pca.cpp.obj -c D:\\PCA\\src\\pca.cpp",
+  "file": "D:/PCA/src/pca.cpp",
+  "output": "CMakeFiles/pca.dir/src/pca.cpp.obj"
+}
+]
